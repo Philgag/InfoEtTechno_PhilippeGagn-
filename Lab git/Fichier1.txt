@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Contenu du fichier 1 dans master
+=======
+Contenu du fichier 1 dans la nouvelle branche
+>>>>>>> bonjour
 123456789
